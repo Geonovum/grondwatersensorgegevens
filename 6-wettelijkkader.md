@@ -5,7 +5,7 @@ Wettelijk kader
 
 *Wettelijk kader grondwatermonitoring*
 
-1.  **BRO Grondwatermonitoring:**
+**BRO Grondwatermonitoring**
 
-<https://docs.geostandaarden.nl/bro/gmn/#kader
-https://docs.geostandaarden.nl/bro/gld/#intro-monitoring>
+\<https://docs.geostandaarden.nl/bro/gmn/\#kader
+https://docs.geostandaarden.nl/bro/gld/\#intro-monitoring\>
