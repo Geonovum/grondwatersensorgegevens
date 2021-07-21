@@ -1,20 +1,22 @@
 Beschrijving van de praktijkstandaard
 =====================================
 
-**Aanleiding**
+Aanleiding
+----------
 
 Het initiatief van RWS WVL is om de vastlegging en uitwisseling van
-niet-authentieke brongegevens (‘ruwe gegevens’) over grondwatermonitoring en het
-proces van kwaliteitscontrole (QC) te uniformeren en standaardiseren. In de
-Basisregistratie Ondergrond (BRO) zijn authentieke gegevens opgenomen die
-(veelal) gebaseerd zijn op deze brongegevens. De standaarden van de BRO
-beschrijven de vastlegging en uitwisseling van deze brongegevens (vooralsnog)
-niet compleet.
+niet-authentieke brongegevens over grondwatermonitoring (hierna:
+grondwatersensorgegevens) en het proces van kwaliteitscontrole (QC) te
+uniformeren en standaardiseren. In de Basisregistratie Ondergrond (BRO) zijn
+authentieke gegevens opgenomen die (veelal) gebaseerd zijn op deze brongegevens.
+De standaarden van de BRO beschrijven de vastlegging en uitwisseling van deze
+brongegevens (vooralsnog) niet compleet.
 
-**Doel**
+Doel
+----
 
-RWS WVL heeft de behoefte geuit aan een praktijkstandaard voor de brongegevens
-van grondwatermonitoring. Met een praktijkstandaard kunnen deze brongegevens op
+RWS WVL heeft de behoefte geuit aan een praktijkstandaard voor
+grondwatersensorgegevens. Met een praktijkstandaard kunnen deze gegevens op
 uniforme wijze worden geregistreerd in de systemen van en uitgewisseld worden
 tussen verschillende bronhouders (o.m. Rijkswaterstaat, provincies,
 drinkwaterbedrijven, gemeenten), en kan het proces van kwaliteitscontrole
