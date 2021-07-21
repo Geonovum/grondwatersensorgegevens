@@ -120,7 +120,7 @@ implementatieondersteuning.
 
 **Doorlooptijd:** 3-6 maanden
 
-#### Certificering
+#### Certificeren van software
 
 **Doel:** toetsen of software voldoet aan de Eisen die het IM GWSG
 
@@ -144,4 +144,4 @@ Doorlooptijd: PM
 Planning
 --------
 
-![](media/4437211b622f9af0a9095ad98bfc6e52.emf)
+![](media/5643570b52082d7e305196cfc2b2b02d.emf)
