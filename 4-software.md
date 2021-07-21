@@ -1,7 +1,8 @@
 Bestaande softwaresystemen
 ==========================
 
-1.  **QC wizard**
+QC wizard
+---------
 
 Het QC-protocol van provincies en RWS beschrijft de richtlijnen en het
 werkproces. De QC-wizard is een implementatie van het protocol. Via QC-labels
@@ -10,14 +11,16 @@ Bij de import van gegevens in de QC-wizard gaat het om een beperkte set ruwe
 data, bijvoorbeeld uit sensoren. Dit is maar een deel van het datamodel. (Link
 naar documentatie?)
 
-1.  **Artdiver**
+Artdiver
+--------
 
 ArtDiver is een validatietool, waarmee loggermeetreeksen op een transparante en
 gestructureerde manier verwerkt en gecontroleerd kunnen worden, waarna een
 representatieve weergave van de grondwaterstand wordt verkregen.
 (<http://www.artesia-water.nl/software/artdiver/>)
 
-1.  **MenyanthesOS**
+MenyanthesOS
+------------
 
 Menyanthes® is het veelzijdige computerprogramma waarmee de hydroloog externe
 invloeden op het grondwater snel en gemakkelijk kan ontrafelen. Dat maakt het
