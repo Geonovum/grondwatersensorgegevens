@@ -1,10 +1,10 @@
 Relevante standaarden
 =====================
 
-1.  Basisregistratie Ondergrond Grondwatermonitoring GMN
+1.  Basisregistratie Ondergrond Grondwatermonitoring (GMN)
     <https://docs.geostandaarden.nl/bro/gmn/> , versie 2 juli 2020
 
-2.  Basisregistratie Ondergrond Catalogus Grondwaterstandonderzoek
+2.  Basisregistratie Ondergrond Catalogus Grondwaterstandonderzoek (GLD)
 
 <https://docs.geostandaarden.nl/bro/gld/> , versie 2 juli 2020
 
