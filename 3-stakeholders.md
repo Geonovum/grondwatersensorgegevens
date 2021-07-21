@@ -1,16 +1,26 @@
 Stakeholders
 ============
 
-1.  Rijkswaterstaat
+Voor de praktijkstandaard grondwatersensorgegevens worden de volgende
+stakeholders onderkend:
 
-2.  Provincies
+Rijkswaterstaat
+---------------
 
-3.  Waterschappen
+Provincies
+----------
 
-4.  Drinkwaterbedrijven
+Waterschappen
+-------------
 
-5.  Gemeenten
+Drinkwaterbedrijven
+-------------------
 
-6.  Softwareleveranciers
+Gemeenten
+---------
 
-7.  Dataleveranciers
+Softwareleveranciers
+--------------------
+
+Dataleveranciers
+----------------
