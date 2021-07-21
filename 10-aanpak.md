@@ -25,13 +25,13 @@ stakeholders; inrichten governance t.b.v. regie/sturing en besluitvorming
 
 **Doorlooptijd:** 3 maanden voor start fase ‘Inhoud & ontwerp’
 
-### Inhoud & ontwerp 
+### Inhoud & ontwerp
 
 In het Metamodel voor Informatiemodellering worden [vier typen
 informatiemodellen](https://docs.geostandaarden.nl/mim/def-st-mim-20201023/#typen-informatiemodellen)
 onderscheiden. Voor het IM GWSG wordt uitgegaan van het
 
-#### opstellen van een conceptueel informatiemodel 
+#### opstellen van een conceptueel informatiemodel
 
 **Doel:** vastleggen van de gegevensdefinitie en eisen/principes in een
 conceptueel informatiemodel. catalogus, en een uitwisselingsmodel een
@@ -144,4 +144,4 @@ Doorlooptijd: PM
 Planning
 --------
 
-![](media/5643570b52082d7e305196cfc2b2b02d.emf)
+![](media/ada0037d333be46dd5e27030e4d4b903.png)
