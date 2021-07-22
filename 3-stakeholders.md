@@ -4,23 +4,20 @@ Stakeholders
 Voor de praktijkstandaard grondwatersensorgegevens worden de volgende
 stakeholders onderkend:
 
-Rijkswaterstaat
----------------
+-   Rijkswaterstaat
 
-Provincies
-----------
+-   Provincies
 
-Waterschappen
--------------
+-   Waterschappen
 
-Drinkwaterbedrijven
--------------------
+-   Drinkwaterbedrijven
 
-Gemeenten
----------
+-   Gemeenten
 
-Softwareleveranciers
---------------------
+-   Softwareleveranciers
 
-Dataleveranciers
-----------------
+-   Dataleveranciers
+
+-   Dataleveranciers komen overeen met aannemers
+
+-   BRO: Programmabureau (BZK) en houder LV-BRO (TNO)
