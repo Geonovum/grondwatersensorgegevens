@@ -1,20 +1,18 @@
 Inhoudelijke keuzes op hoofdlijnen
 ==================================
 
+Data die aangeleverd dient te worden aan de BRO
+-----------------------------------------------
+
+Data die benodigd is voor het omzetten van ruwe meetdata naar werkelijke eenheden
+---------------------------------------------------------------------------------
+
+Afbakening tot grondwatersensorgegevens?
+
+Data die benodigd is voor het uitvoeren van kwaliteitscontroles
+---------------------------------------------------------------
+
 Datamodel QC Wizard als uitgangspunt?
 
-Afbakening tot grondwatersensorgegevens
-
-1.  De eerste aanzet/versie van de praktijkstandaard wordt gebaseerd op het
-    datamodel van de QC-wizard (*as-is)*.
-
-2.  De eerste conceptversie van de praktijkstandaard bevat slechts de
-    beschrijving van de ruwe gegevens.
-
-3.  De praktijkstandaard bestaat uit een conceptueel informatiemodel die de
-    informatiebehoefte voor uitwisseling van brongegevens grondwatermonitoring
-    op conceptueel niveau beschrijft
-
-4.  De praktijkstandaard bestaat uit een logisch informatiemodel die de
-    technische structuur van de uitwisseling van brongegevens
-    grondwatermonitoring beschrijft (hoe).
+Aanvullende data die ingewonnen wordt bij metingen die niet specifiek voor de BRO als wel de datakwaliteitscontrole, maar die benodigd zijn voor het onderzoeken van meldingen. En nuttig kunnen zijn bij het uitwisselen van data
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
