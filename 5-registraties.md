@@ -4,7 +4,7 @@ Bestaande registraties
 Basisregistratie Ondergrond
 ---------------------------
 
-DINO Loket
-----------
+DINO
+----
 
 https://www.dinoloket.nl/aanleveren-grondwatermonitoring
